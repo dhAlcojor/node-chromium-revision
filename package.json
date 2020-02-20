@@ -1,8 +1,8 @@
 {
-  "name": "chromium",
-  "version": "2.1.1",
-  "description": "Chromium binaries for Node.js projects",
-  "repository": "dtolstyi/node-chromium",
+  "name": "chromium-revision",
+  "version": "1.0.0",
+  "description": "Chromium binaries for Node.js projects with the ability to specify revision number",
+  "repository": "https://github.com/dhAlcojor/node-chromium-revision",
   "main": "index.js",
   "os": [
     "darwin",
@@ -25,7 +25,7 @@
     "chrome",
     "browser"
   ],
-  "author": "Dmytro TOLSTYI <dmytro.tolstyi@gmail.com>",
+  "author": "Daniel Hernández Alcojor <dhalcojor@gmail.com>",
   "license": "MIT",
   "xo": {
     "space": 4,
